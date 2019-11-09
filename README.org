@@ -1,0 +1,11 @@
+* What is this about
+:PROPERTIES:
+:CREATED:  [2019-11-09 Sat 13:28]
+:END:
+
+This is an exemplary example to show the testing capabilities of the
+scalikejdbc library http://scalikejdbc.org/documentation/testing.html.
+
+In short we will set up a H2 Database and show how the library works
+within our test specification file (the auto-rollback feature the test
+library provides is very useful!).
